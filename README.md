@@ -1,0 +1,1 @@
+- This repo contains the practice projects using tailwind css.
